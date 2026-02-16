@@ -35,7 +35,7 @@ export const usePomodoro = (setTasks) => {
 
   // 🌐 OPEN BROWSER TAB
   const openBrowserTab = () => {
-    window.open('https://sujanraja.github.io/sujandailyplannerfinal/','PomodoroTab');
+    window.open('https://sujanraja.github.io/sujandailyplannerweb/','PomodoroTab');
   };
 
   // =========================
