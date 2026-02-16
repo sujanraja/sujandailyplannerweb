@@ -7,8 +7,8 @@ export const usePomodoro = (setTasks) => {
   const [pomodoroState, setPomodoroState] = useState({});
 
   // ===== TIMINGS =====
-  const PROD_WORK_MS = 1 * 60 * 1000;
-  const PROD_REST_MS = 1 * 60 * 1000;
+  const PROD_WORK_MS = 25 * 60 * 1000;
+  const PROD_REST_MS = 5 * 60 * 1000;
 
   const WORK_TEST_MS = null; 
   const REST_TEST_MS = null;
