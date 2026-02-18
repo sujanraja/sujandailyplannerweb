@@ -35,7 +35,7 @@ export const usePomodoro = (setTasks) => {
 
   // 🌐 OPEN BROWSER TAB
   const openBrowserTab = () => {
-    window.open('https://www.goodreads.com/author/quotes/986042.A_P_J_Abdul_Kalam', "https://in.pinterest.com/saqibasgar/inspirational-quotes-by-apj-abdul-kalam/");
+    window.open('https://www.google.com/', "_blank");
   };
 
   // =========================
